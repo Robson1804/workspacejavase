@@ -9,3 +9,6 @@ Repetição
 
 JAVA SE => Para desenvolvimento em DESKTOP
 JAVA EE => Para desenvolvimento em WEB
+
+
+Alteração realizado pelo analista XPTO
